@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/delaiglesialab/DigitalRhythmsProject/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The Digital Rhythms Project by the de la iglesia lab at the University of Washington, Seattle; is a peek into human lifestyle from their digital footprints. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Particularly, we want to look at the effect COVID-19 had on our work rhythms.
 
-### Markdown
+Lead Researcher: Horacio de la Iglesia, Department of Biology, University of Washington, (206) 616-4697, email: horaciod@uw.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Study Coordinator: Raymond Sanchez, Department of Biology, University of Washington, (520) 205-2531, email: raysan53@uw.edu
 
-```markdown
-Syntax highlighted code block
+## A little info!
 
-# Header 1
-## Header 2
-### Header 3
+Google stores a lot of information about us, from most of our mails to timestamps of apps being opened on our Android phones. They normally store it to make predictions about us to improve thier revenues. We figured, if this data should be collected from us, it should benefit us directly too! 
 
-- Bulleted
-- List
+This project attemps to study rhythms in human activity via these digital footprints, to see what may be natural for us and what isn't, and utlimately to help us as humans, make more informed decisions about our habits to live healthier lives.
 
-1. Numbered
-2. List
+## You can help us!
 
-**Bold** and _Italic_ and `Code` text
+Follow through with the steps below and see how you could help us help everyone, within a relatively short amount of time!
 
-[Link](url) and ![Image](src)
-```
+### Step 1:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Identify what data you have: 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/delaiglesialab/DigitalRhythmsProject/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. 
