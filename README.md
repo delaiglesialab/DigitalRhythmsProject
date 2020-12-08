@@ -19,23 +19,23 @@ Each file to be submitted is first viewed and de-identified by you to remove any
 
 We are currently looking for:
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="30" width="30">
-   
-1. E-mail timestamps
+1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="30" width="30">
+
+   E-mail timestamps
 
    This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us. We currently support G-mail by google and Apple mail, if you use any other mail system please contact us and we will try to find a way to obtain the data!
 
    Find out how to obtain this data <a href="" target="_blank">here!</a>
 
-   <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> 
+2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> 
 
-2. Android timestamps
+   Android timestamps
 
-    This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this website with android using friends and family!
+   This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this website with android using friends and family!
 
-    Find out how to obtain this data <a href="" target="_blank">here!</a>
+   Find out how to obtain this data <a href="" target="_blank">here!</a>
     
-### Step 2: <img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15"> Consent and Questionnaires
+### Step 2: Consent and Questionnaires
 
 Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
 
