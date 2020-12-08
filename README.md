@@ -30,9 +30,11 @@ Feel free to contact us regarding any concerns or suggestions!
 Study Coordinator: 
 
 Raymond Sanchez, Department of Biology, University of Washington, (520) 205-2531, 
+
 email: <a href="mailto:raysan53@uw.edu">raysan53@uw.edu</a>
 
 Lead Researcher: 
 
 Horacio de la Iglesia, Department of Biology, University of Washington, (206) 616-4697, 
+
 email: <a href="mailto:horaciod@uw.edu">horaciod@uw.edu</a>
