@@ -33,7 +33,7 @@ We are currently looking for:
    
    This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this website with android using friends and family!
 
-   Find out how to obtain this data <a href="" target="_blank">here!</a>
+   Find out how to obtain this data <a href="https://github.com/delaiglesialab/DigitalRhythmsProject/blob/main/android.md" target="_blank">here!</a>
     
 ### Step 2: Consent and Questionnaires
 
