@@ -21,18 +21,18 @@ Each file to be submitted is first viewed and de-identified by you to remove any
 
 We are currently looking for:
 
-1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="1em" width="1em"> E-mail timestamps
+1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> E-mail timestamps
 
 This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate students in academia also important sources of information for us.
 
 
 
-2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="1em" width="1em"> Android timestamps
+2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> Android timestamps
 
 This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly important as a trove of information if you're someone who uses their phone all the time! 
 
 
-<img src="https://www.pngfind.com/pngs/m/530-5309946_to-google-forms-google-forms-logo-png-transparent.png" height="1em" width="1em">
+<img src="https://www.pngfind.com/pngs/m/530-5309946_to-google-forms-google-forms-logo-png-transparent.png" height="30" width="30">
 
 # About Us and Contact details
 
