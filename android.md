@@ -36,7 +36,7 @@ Scroll all the way down, and click "Next Step".
 ![5](https://user-images.githubusercontent.com/68754864/96494596-316a1f00-1264-11eb-814e-f31320e5c922.png)
 
 
-In the second step, select frequency "Export Once". The file type is your choice, most people are comfortable with .zip, I prefer .tgz, pick the one you know you can open. The default file size of 2GB (.zip) is perfectly fine. The download should not be too large (mine was only 2 MB!)
+In the second step, select frequency "Export Once". The file type is your choice, most people are comfortable with .zip, I prefer .tgz, pick the one you know you can open. The default file size of 2GB (.zip) is perfectly fine. The download should not be too large (<100mb) depending on your usage.
 
 Click "Create Export" and you're done! (almost)
 
@@ -44,7 +44,7 @@ Click "Create Export" and you're done! (almost)
 ![6](https://user-images.githubusercontent.com/68754864/96494598-3202b580-1264-11eb-8605-0c415020ab06.png)
 
 
-Once you click "create export" you will see a new banner like this, telling you it is under way. The process only took 2 minutes for me. 
+Once you click "create export" you will see a new banner like this, telling you it is under way. The process only takes about 5 minutes.
 
 **However** you may receive a notification on your phone and an e-mail from google, asking you to confirm it was you that requested an export. You may not recieve a download link till you open that e-mail/notification and click "yes". 
 
@@ -54,15 +54,15 @@ So check your e-mail!
 ![7](https://user-images.githubusercontent.com/68754864/96494600-329b4c00-1264-11eb-8fc3-c50fc6694cd1.png)
 
 
-Now, you can sit back and wait for the e-mail from google, which can sometimes be delayed even though the process is quite fast.
+Now, you can sit back and wait for the e-mail from google, which can sometimes be delayed even though the process itself is quite fast.
 
-If you're anything like me and don't want to wait, reload the page, you will find a new banner on top, with a button for "Manage Exports" as shown below.
+Alternatively, should you reload the page, you will find a new banner on top, with a button for "Manage Exports" as shown below.
 
 
 ![8](https://user-images.githubusercontent.com/68754864/96494602-3333e280-1264-11eb-9783-3fd16e0bfc68.png)
 
 
-Clicking it opens a new page with your hsitory of exports, and it will say your export is in progress. If you're lucky, you'll see the export with the download link right away (granted you verified it from your e-mail or phone). If not, just wait and reload in a bit and you should get the download option.
+Clicking it opens a new page with your history of exports, and it will say your export is in progress. If you're lucky, you'll see the export with the download link right away (granted you verified it from your e-mail or phone). If not, just wait and reload in a bit and you should get the download option.
 
 
 ![9](https://user-images.githubusercontent.com/68754864/96494604-33cc7900-1264-11eb-9f82-d90ccdc70ec5.png)
@@ -80,8 +80,14 @@ in the archive: /Takeout/My Activity/Android/My Activity.html
 ![10](https://user-images.githubusercontent.com/68754864/96496886-76dc1b80-1267-11eb-9805-562158c3a71e.png)
 
 
-Copy and save this file at a convenient location to upload and use in the experiment!
+Copy and save this file at a convenient location to upload in the next step.
 
-I highly recomment opening the file yourself. As an HTML file it will open in any browser and you will see banners with app names and time stamps, data from your own phone usage! Notice what data is available and what isn't, for example, it only has timestamps of when an app was open, and atleast from files I've seen, no background app data!
+I highly recommend opening the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no other details. Our process involving de-identification of the data at source (done by you) in the next step ensures we do not have a way of tracing the file directly back to you.
 
-Voila, you're done!
+Once you're comfortable with what the file contains, and sharing it with us, return to the previous page to cotinue with step 2!
+
+However, if you are still concerned, we offer you the choice of extracting the information with the same method that we would use with the file, and checking the CSV file before sharing it with us. Click on the icon below to open a google colab notebook and follow the instructions within. It offers the option of removing appnames as well, but please consider not doing so to allow us the chance to do more interesting analyses with the data!
+
+<a href=\"https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
+
+Please follow through with step 2 when done!
