@@ -23,13 +23,13 @@ We are currently looking for:
 
    This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us. We currently support G-mail by google and Apple mail, if you use any other mail system please contact us and we will try to find a way to obtain the data!
 
-   Find out how to obtain this data ![here!]()
+   Find out how to obtain this data [here!]()
 
 2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="15" width="15"> Android timestamps
 
     This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this websitewith android using friends and family!
 
-    Find out how to obtain this data ![here!]()
+    Find out how to obtain this data [here!]()
     
 ### Step 2: <img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15"> Questionnaires
 
