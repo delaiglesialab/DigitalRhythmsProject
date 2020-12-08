@@ -19,7 +19,8 @@ Each file to be submitted is first viewed and de-identified by you to remove any
 
 We are currently looking for:
 
-1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="30" width="30">
+1. 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="30" width="30">
 
    E-mail timestamps
 
@@ -27,7 +28,8 @@ We are currently looking for:
 
    Find out how to obtain this data <a href="" target="_blank">here!</a>
 
-2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> 
+2. 
+   <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> 
 
    Android timestamps
 
