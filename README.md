@@ -23,13 +23,13 @@ We are currently looking for:
 
 1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15" width="15"> E-mail timestamps
 
-This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate students in academia also important sources of information for us.
+   This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us.
 
 
 
 2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="15" width="15"> Android timestamps
 
-This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly important as a trove of information if you're someone who uses their phone all the time! 
+    This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly important as a trove of information if you're someone who uses their phone all the time! 
 
 
 <img src="https://www.pngfind.com/pngs/m/530-5309946_to-google-forms-google-forms-logo-png-transparent.png" height="15" width="15">
