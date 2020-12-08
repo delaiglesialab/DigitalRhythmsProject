@@ -35,7 +35,7 @@ We are currently looking for:
 
 Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
 
-<img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="60" width="60"  class"center">
+<img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="60" width="60">
 
 1. First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
 
