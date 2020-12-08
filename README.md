@@ -15,17 +15,22 @@ As a little treat for your efforts, we also offer an online tool to visualize yo
 
 Identify the kinds(s) of digital footprints that you have: 
 
+Note that you may have more than one kind of data that we could use and we would greatly appreciate if you submit multiple files! Don't be hesitant to share your data if you feel you don't use either mode enough, the questionnaire that follows allows you to detail on how much and for what purposes you use these mediums and you'd be surprised at how helpful they may be to us!
+
+Each file to be submitted is first viewed and de-identified by you to remove any chances of the submitted data being traced back to you. For those still concerned, we even provide options for you to pre-process the data and only submitting what you deem fit!
 
 We are currently looking for:
 
-1. ![](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg) E-mail timestamps
+1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="6" width="6"> E-mail timestamps
 
 This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate students in academia also important sources of information for us.
 
-2. ![](https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png) Android timestamps
 
 
-Note that you may have more than one kind of data that we could use and we would greatly appreciate if you submit multiple files! Don't be hesitant to share your data if you feel you don't use either mode enough, the questionnaire that follows allows you to detail on how much and for what purposes you use these mediums and you'd be surprised at how helpful they may be to us!
+2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="6" width="6"> Android timestamps
+
+This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly important as a trove of information if you're someone who uses their phone all the time! 
+
 
 # About Us and Contact details
 
