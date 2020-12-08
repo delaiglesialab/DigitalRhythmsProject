@@ -32,6 +32,8 @@ This usually pertains to professionals that use e-mails as their primary means o
 This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly important as a trove of information if you're someone who uses their phone all the time! 
 
 
+<img src="https://www.pngfind.com/pngs/m/530-5309946_to-google-forms-google-forms-logo-png-transparent.png" height="6" width="6">
+
 # About Us and Contact details
 
 Feel free to contact us regarding any concerns or suggestions!
