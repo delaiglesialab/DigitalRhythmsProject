@@ -49,7 +49,7 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 
    <img src="https://www.flaticon.com/premium-icon/icons/svg/2115/2115955.svg" height="40" width="40">
    
-   Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document,and not even on our own systems.
+   Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document, and not even on our own systems.
 
 3. Finally, once you've **re-named and de-identified** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">here</a>
 
