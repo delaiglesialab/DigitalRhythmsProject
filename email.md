@@ -50,7 +50,7 @@ This protocol assumes your work/university email account is hosted by Gmail or A
 
 15.  Go to the Google Colaboratory iPython notebook link below and follow the instructions in it. Make sure you repeat the process for both mbox files.
 
-***notebook link here***
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
 You're all set! Go back to the main page and continue to the next (final) step!
 
@@ -70,6 +70,6 @@ You're all set! Go back to the main page and continue to the next (final) step!
 
 7.  Go to the Google Colaboratory iPython notebook link below and follow the instructions in it. Make sure you repeat the process for both mbox files.
 
-***notebook link here***
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
 You're all set! Go back to the main page and continue to the next (final) step!
