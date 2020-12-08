@@ -45,9 +45,9 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
    
    Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document,and not even on our own systems.
 
-3. Finally, click the link below to fill out a questionnaire and submit your data **re-named with the code, de-identified by you.**
+3. Finally, click the google form icon below to fill out a questionnaire and submit your data **re-named with the code, de-identified by you.**
 
-   ***link to form here***[<img src="https://www.google.com/images/about/forms-icon.svg" height="50" width="50" class="center">](https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?gxids=7628)
+   [<img src="https://www.google.com/images/about/forms-icon.svg" height="50" width="50" class="center">](https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?gxids=7628)
 
    and you're done! We hope it did not take too long for you!
    
