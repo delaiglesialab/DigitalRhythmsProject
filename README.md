@@ -20,6 +20,7 @@ Each file to be submitted is first viewed and de-identified by you to remove any
 We are currently looking for:
 
 1. 
+
    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="30" width="30"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="30" width="30">
 
    E-mail timestamps
@@ -29,6 +30,7 @@ We are currently looking for:
    Find out how to obtain this data <a href="" target="_blank">here!</a>
 
 2. 
+
    <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="30" width="30"> 
 
    Android timestamps
@@ -41,23 +43,29 @@ We are currently looking for:
 
 Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
 
+1.  
+
    <img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="30" width="30">
 
-1. First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
+   First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
+
+2.
 
    <img src="https://www.flaticon.com/premium-icon/icons/svg/2115/2115955.svg" height="30" width="30">
 
-2. Next, submit your details and receive your *unique* 5 character code <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9at489PROVrqA-qO2EXoz1D_5TWLJGha9GcUqO24y30u34Q/viewform?usp=sf_link" target="_blank">here</a>
+   Next, submit your details and receive your *unique* 5 character code <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9at489PROVrqA-qO2EXoz1D_5TWLJGha9GcUqO24y30u34Q/viewform?usp=sf_link" target="_blank">here</a>
 
    Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document,and not even on our own systems.
 
+3.
+
    <img src="https://www.google.com/images/about/forms-icon.svg" height="30" width="30">
 
-3. Finally, once you've **re-named and de-identified** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">here</a>
+   Finally, once you've **re-named and de-identified** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">here</a>
 
-   and you're done! We hope it did not take too long for you!
+and you're done! We hope it did not take too long for you!
    
-   A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
+A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
    
 ### The promised treat
 
