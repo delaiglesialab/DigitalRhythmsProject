@@ -23,31 +23,31 @@ We are currently looking for:
 
    This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us. We currently support G-mail by google and Apple mail, if you use any other mail system please contact us and we will try to find a way to obtain the data!
 
-   Find out how to obtain this data [here!]()
+   Find out how to obtain this data <a href="" target="_blank">here!</a>
 
 2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="15" width="15"> Android timestamps
 
     This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this websitewith android using friends and family!
 
-    Find out how to obtain this data [here!]()
+    Find out how to obtain this data <a href="" target="_blank">here!</a>
     
-### Step 2: <img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15"> Questionnaires
+### Step 2: <img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15"> Consent and Questionnaires
 
 Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
 
-1. First, click the consent icon below to fill out the online consent form.
+<img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="60" width="60"  class"center">
 
-   [<img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="60" width="60">](https://redcap.iths.org/surveys/?s=34X3HD7YYL)
+1. First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
 
-2. Next, click on the code generator icon below to submit your details and receive your *unique* 5 character code.
+   <img src="https://www.flaticon.com/premium-icon/icons/svg/2115/2115955.svg" height="60" width="60" class "center>
 
-   [<img src="https://www.flaticon.com/premium-icon/icons/svg/2115/2115955.svg" height="60" width="60">](https://docs.google.com/forms/d/e/1FAIpQLSe9at489PROVrqA-qO2EXoz1D_5TWLJGha9GcUqO24y30u34Q/viewform?gxids=7628)
-   
+2. Next, submit your details and receive your *unique* 5 character code <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9at489PROVrqA-qO2EXoz1D_5TWLJGha9GcUqO24y30u34Q/viewform?usp=sf_link" target="_blank">here</a>
+
    Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document,and not even on our own systems.
 
-3. Finally, click the google form icon below to fill out a questionnaire and submit your data **re-named with the code, de-identified by you.**
+   <img src="https://www.google.com/images/about/forms-icon.svg" height="60" width="60" class "center">
 
-   [<img src="https://www.google.com/images/about/forms-icon.svg" height="60" width="60">](https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?gxids=7628)
+3. Finally, once you've **re-named and de-identified** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">here</a>
 
    and you're done! We hope it did not take too long for you!
    
