@@ -1,6 +1,3 @@
-
-# Happy Birthday Lisa
-
 ### To obtain your Android app activity data:
 
 Visit https://takeout.google.com/ and ensure you are signed into the same account as the primary one on your android phone. 
