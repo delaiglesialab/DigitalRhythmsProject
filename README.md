@@ -61,9 +61,11 @@ A sincere thank you from the de la Iglesia lab at the University of Washington, 
    
 ### The promised treat
 
-Click on the link below to open a colab notebook that allows you to visualize your own data, and even helps you learn some interesting things about yourself!
+Click on the icon below to open a colab notebook that allows you to visualize your own data, and even helps you learn some interesting things about yourself!
 
-***colab link here*** 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
+
+The notebook is still in development and built to be a tutorial for students. It will be updated with a dedicated notebook for visualization soon!
 
 # About Us and Contact details
 
