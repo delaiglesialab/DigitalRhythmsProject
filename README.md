@@ -11,28 +11,53 @@ As a little treat for your efforts, we also offer an online tool to visualize yo
 
 ## How you can help us!
 
-### Step 1:
+### Step 1: Identifying the kinds(s) of digital footprints you leave
 
-Identify the kinds(s) of digital footprints that you have: 
-
-Note that you may have more than one kind of data that we could use and we would greatly appreciate if you submit multiple files! Don't be hesitant to share your data if you feel you don't use either mode enough, the questionnaire that follows allows you to detail on how much and for what purposes you use these mediums and you'd be surprised at how helpful they may be to us!
+Below is a list of You may have more than one kind of data that we could use and we would greatly appreciate if you submit multiple files! Don't be hesitant to share your data if you feel you don't use either mode enough, the questionnaire that follows allows you to detail on how much and for what purposes you use these mediums and you'd be surprised at how helpful they may be to us!
 
 Each file to be submitted is first viewed and de-identified by you to remove any chances of the submitted data being traced back to you. For those still concerned, we even provide options for you to pre-process the data and only submitting what you deem fit!
 
 We are currently looking for:
 
-1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15" width="15"> E-mail timestamps
+1. <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="15" width="15"> <img src="https://upload.wikimedia.org/wikipedia/fr/a/a7/Mail_%28Apple%29_logo.png" height="15" width="15"> E-mail timestamps
 
-   This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us.
+   This usually pertains to professionals that use e-mails as their primary means of work related communication. Professors and graduate or undergraduate   students in academia also important sources of information for us. We currently support G-mail by google and Apple mail, if you use any other mail system please contact us and we will try to find a way to obtain the data!
 
-
+   Find out how to obtain this data ![here!]()
 
 2. <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="15" width="15"> Android timestamps
 
-    This applies to almost anyone using an android device! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! 
+    This applies to almost anyone using an android phone! It also applies if you barely use your phone, but is particularly great if you're someone who uses their phone all the time! We do not have a method for iPhones at this time, please consider sharing this websitewith android using friends and family!
 
+    Find out how to obtain this data ![here!]()
+    
+### Step 2: <img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15"> Questionnaires
 
-<img src="https://www.google.com/images/about/forms-icon.svg" height="15" width="15">
+Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
+
+1. First, click the link below to fill out the online consent form.
+
+   ***link to form here***
+
+2. Next, fill out the form linked below to submit your details and obtain your *unique* 5 character code.
+
+   ***link to form here***
+   
+   Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document,and not even on our own systems.
+
+3. Finally, click the link below to fill out a questionnaire and submit your data **re-named with the code, de-identified by you.**
+
+   ***link to form here***
+
+   and you're done! We hope it did not take too long for you!
+   
+   A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
+   
+### The promised treat
+
+Click on the link below to open a colab notebook that allows you to visualize your own data, and even helps you learn some interesting things about yourself!
+
+***colab link here*** 
 
 # About Us and Contact details
 
