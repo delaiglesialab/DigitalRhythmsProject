@@ -8,18 +8,19 @@ This protocol assumes your work/university email account is hosted by Gmail or A
 
 3.  Call your new label name “Emails for Export” and click “Create”.
 
-![](https://user-images.githubusercontent.com/42762378/101547694-a63e1780-39d0-11eb-963a-e9a1c31b55ec.png)
+    ![](https://user-images.githubusercontent.com/42762378/101547694-a63e1780-39d0-11eb-963a-e9a1c31b55ec.png)
 
 4.  Select all of your outgoing emails within the following two time ranges using the check box on the left-hand side of each email thread.
     
       April 1 - May 31, 2019 (Pre-pandemic)
+      
       April 1 - May 31, 2020 (Mid-pandemic)
       
-Once all emails are selected, click the “Labels” button at the top of the Gmail display, and select the new label you just created, “Emails for Export”.
+    Once all emails are selected, click the “Labels” button at the top of the Gmail display, and select the new label you just created, “Emails for Export”.
 
-IMPORTANT NOTE: While we are taking precautions to make sure that the sensitive contents of your email data are protected during this process (more on this later), we understand that you may have privacy concerns about sharing your email data. While it’s true that the more emails you share the better this will be for our analysis, you have full discretion over which and how many of your outgoing emails you choose to contribute to our dataset. If there are some messages in these time ranges that you feel are too sensitive to include, simply exclude them!
+    IMPORTANT NOTE: While we are taking precautions to make sure that the sensitive contents of your email data are protected during this process (more on this later), we understand that you may have privacy concerns about sharing your email data. While it’s true that the more emails you share the better this will be for our analysis, you have full discretion over which and how many of your outgoing emails you choose to contribute to our dataset. If there are some messages in these time ranges that you feel are too sensitive to include, simply exclude them!
 
-![](https://user-images.githubusercontent.com/42762378/101547892-02a13700-39d1-11eb-8111-9b7f22adb646.png)
+    ![](https://user-images.githubusercontent.com/42762378/101547892-02a13700-39d1-11eb-8111-9b7f22adb646.png)
 
 5.  All of the e-mails you’ve selected should now have a label reading “Emails for Export” in small text next to the subject line.
 
@@ -29,7 +30,7 @@ IMPORTANT NOTE: While we are taking precautions to make sure that the sensitive 
 
 8.  Navigate to “Mail” and select this option ONLY.
 
-![](https://user-images.githubusercontent.com/42762378/101548046-472cd280-39d1-11eb-82b4-2eb4c456b3f7.png)
+    ![](https://user-images.githubusercontent.com/42762378/101548046-472cd280-39d1-11eb-82b4-2eb4c456b3f7.png)
 
 9.  Click “All Mail data included”. Deselect the “Include all messages in Mail” option and select the new label you just created, “Emails for Export” ONLY.
 
@@ -37,11 +38,11 @@ IMPORTANT NOTE: While we are taking precautions to make sure that the sensitive 
 
 11.  For the “Choose file type, frequency and destination” menu, select the options below:
 
-![](https://user-images.githubusercontent.com/42762378/101548170-6d527280-39d1-11eb-9a27-6cff6b1d3dc5.png)
+   ![](https://user-images.githubusercontent.com/42762378/101548170-6d527280-39d1-11eb-9a27-6cff6b1d3dc5.png)
 
 12.  Google Takeout may take a few minutes to complete your request depending on the size of your email export. Once it is complete, you should see a screen like this:
 
-![image](https://user-images.githubusercontent.com/42762378/101548241-88bd7d80-39d1-11eb-89ca-4147070aa47b.png)
+   ![image](https://user-images.githubusercontent.com/42762378/101548241-88bd7d80-39d1-11eb-89ca-4147070aa47b.png)
 
 13.  Select “Open in Drive”. You should now be able to download a zipped file with your email metadata.
 
