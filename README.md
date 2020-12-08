@@ -1,8 +1,8 @@
 Everyday, as we go about out lives, between sending work mails and using our phones for lots of things, we leave tons of digital footprints, probably more than we've left on the beach lately, due to the stay at home orders!
 
-Our project tries to use these digital footprints to study rhythms in our activity, and to see what might be natural for us and what isn't. This helps us towards our goal of understanding human sleep and natural rhythms, and help people make more informed decisions about their habits and lead healthier lives.
+Our project tries to use these digital footprints to study rhythms in human activity. Our studies into human activity helps us towards our goal of understanding human sleep and natural rhythms, and to help people make more informed decisions about their habits and lead healthier lives.
 
-A particular focus of our current study is the effect COVID-19 had on our work rhythms. We believe that the stay at home orders forced people into a peculiar situation, and that these changes may be very informative about what is natural for us compared to the social convention of the 9to5 work life.
+A particular focus of our current study is the effect COVID-19 had on our work rhythms. We believe that the stay at home orders forced people into a peculiar situation, and we wanted to study it's impact as we were drawn away from the social convention of the 9to5 work life.
 
 Please consider taking the time out to help us. 
 
