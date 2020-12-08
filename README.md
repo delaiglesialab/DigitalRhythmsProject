@@ -41,7 +41,7 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 
 1.  First, fill out the consent form <a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank">here.</a>
 
-   <img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="30" width="30">
+    <img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40">
 
    
 
