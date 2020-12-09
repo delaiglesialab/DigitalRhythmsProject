@@ -41,6 +41,8 @@ If you wish to share both kinds of data, click <a href="https://delaiglesialab.g
 
 Feel free to contact us regarding any concerns or suggestions!
 
+The de la Iglesia lab, Department of Biology, University of Washington, Seattle.
+
 ### Study Coordinator: 
 
 Raymond Sanchez, Department of Biology, University of Washington, (520) 205-2531, 
