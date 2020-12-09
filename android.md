@@ -1,4 +1,4 @@
-# Step 1: Obtain the data
+# Step 1 of 2: Obtain the data
 
 ### To obtain your Android app activity data:
 
