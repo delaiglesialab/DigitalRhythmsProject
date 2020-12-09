@@ -1,16 +1,18 @@
-### To obtain your Android app activity data:
+# STep 1: Obtain the data
 
-Visit https://takeout.google.com/ and ensure you are signed into the same account as the primary one on your android phone. 
+### To obtain your Android app activity data:
 
 The process is quite straightforward but I've made sure to document each step in case you get lost! The page might look lengthy but you're really just a few clicks away.
 
-The first step is to click on "deselect all" as shown below, since we only want to export the app activity data!
+The first step is to visit https://takeout.google.com/ and ensure you are signed into the same account as the primary one on your android phone.
+
+Next, click on "deselect all" as shown below, since we only want to export the app activity data!
 
 
 ![1](https://user-images.githubusercontent.com/68754864/96494580-2dd69800-1264-11eb-93a3-8a2270246b41.png)
 
 
-Next, scroll down to find the "My Activity" banner. For me it was between "Maps (your places)" and "My Maps".
+Next, scroll down to find the "My Activity" banner. It is usually between "Maps (your places)" and "My Maps".
 
 Tick the checkbox on the right, and click the "Multiple Formats" button on the left.
 
@@ -36,7 +38,7 @@ Scroll all the way down, and click "Next Step".
 ![5](https://user-images.githubusercontent.com/68754864/96494596-316a1f00-1264-11eb-814e-f31320e5c922.png)
 
 
-In the second step, select frequency "Export Once". The file type is your choice, most people are comfortable with .zip, I prefer .tgz, pick the one you know you can open. The default file size of 2GB (.zip) is perfectly fine. The download should not be too large (<100mb) depending on your usage.
+In the second step, select frequency "Export Once". The file type is your choice, most people are comfortable with .zip, pick the one you know you can open. .tgz files may require extra software on windows and mac, so .zip is safer for most. The default file size of 2GB (.zip) is perfectly fine. The download should not be too large (<100mb) depending on your usage.
 
 Click "Create Export" and you're done! (almost)
 
@@ -82,12 +84,12 @@ in the archive: /Takeout/My Activity/Android/My Activity.html
 
 Copy and save this file at a convenient location to upload in the next step.
 
-I highly recommend opening the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no other details. Our process involving de-identification of the data at source (done by you) in the next step ensures we do not have a way of tracing the file directly back to you.
+We highly recommend opening the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no other details. Our process involving de-identification of the data at source (done by you) in the next step ensures we do not have a way of tracing the file directly back to you.
 
-Once you're comfortable with what the file contains, and sharing it with us, return to the previous page to cotinue with step 2!
+Once you're comfortable with what the file contains, and sharing it with us, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires" target="_blank">here.</a>
 
 However, if you are still concerned, we offer you the choice of extracting the information with the same method that we would use with the file, and checking the CSV file before sharing it with us. Click on the icon below to open a google colab notebook and follow the instructions within. It offers the option of removing appnames as well, but please consider not doing so to allow us the chance to do more interesting analyses with the data!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
 
-Please follow through with step 2 when done!
+Once you've obtained the CSV file from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires" target="_blank">here.</a>
