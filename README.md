@@ -35,6 +35,8 @@ We are currently looking for:
 
    Find out how to help with android timestamps data <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/android" target="_blank">here!</a>
     
+If you wish to share both kinds of data, click <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/android" target="_blank">here!</a>, else pick one of the two above and continue by going to the link associated to it.
+
 # About Us and Contact details
 
 Feel free to contact us regarding any concerns or suggestions!
