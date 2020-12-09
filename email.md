@@ -1,3 +1,5 @@
+# Step 1: Obtain the data
+
 This protocol assumes your work/university email account is hosted by Gmail or Apple Mail. Other commonly used email clients like Microsoft Outlook also allow you to download your email data - instructions to do so using these clients are coming soon.
 
 ## G-Mail
@@ -52,7 +54,7 @@ This protocol assumes your work/university email account is hosted by Gmail or A
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
-You're all set! Go back to the main page and continue to the next (final) step!
+Once you've obtained the CSV files from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires" target="_blank">here.</a>
 
 ## Apple Mail
 
@@ -72,4 +74,4 @@ You're all set! Go back to the main page and continue to the next (final) step!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
-You're all set! Go back to the main page and continue to the next (final) step!
+Once you've obtained the CSV files from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires" target="_blank">here.</a>
