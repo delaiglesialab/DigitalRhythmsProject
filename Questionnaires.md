@@ -18,9 +18,9 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 
     <img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40">
 
-and you're done! We hope it did not take too long for you!
+### and you're done! We hope it did not take too long for you!
    
-A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
+### A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
    
    
    
