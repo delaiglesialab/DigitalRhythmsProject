@@ -1,4 +1,4 @@
-# Step 3: Consent and Questionnaires
+# Step 2 of 2: Consent and Questionnaires
 
 Please ensure you've obtained a data file, viewed it and are comfortable with sharing it before moving forward. 
 
