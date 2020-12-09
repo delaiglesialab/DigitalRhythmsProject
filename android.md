@@ -1,10 +1,14 @@
 # Step 1 of 2: Obtain the data
 
+It's a short process that's really easy, but just to be clear we've documented each click required. So don't you worry, it's not remotely as time consuming as the length of this page makes it look.
+
 ### To obtain your Android app activity data:
 
-The process is quite straightforward but I've made sure to document each step in case you get lost! The page might look lengthy but you're really just a few clicks away.
+The first step is to click the link below to go to the google takeout service.
 
-The first step is to visit https://takeout.google.com/ and ensure you are signed into the same account as the primary one on your android phone.
+<a href="https://takeout.google.com" target"_blank">takeout.google.com/</a>
+
+ensure you are signed into the same account as the primary one on your android phone.
 
 Next, click on "deselect all" as shown below, since we only want to export the app activity data!
 
@@ -84,7 +88,7 @@ in the archive: /Takeout/My Activity/Android/My Activity.html
 
 Copy and save this file at a convenient location to upload in the next step.
 
-We highly recommend opening the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no other details. Our process involving de-identification of the data at source (done by you) in the next step ensures we do not have a way of tracing the file directly back to you.
+We highly recommend opening the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no other details. In the next step, you will receive a code and rename the file with it, such that it cannot be identified back to you.
 
 Once you're comfortable with what the file contains, and sharing it with us, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
 
