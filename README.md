@@ -59,25 +59,25 @@ and you're done! We hope it did not take too long for you!
    
 A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
    
-### The promised treat
+### (Extra) Visualize it yourself!
 
-Click on the icon below to open a colab notebook that allows you to visualize your own data, and even helps you learn some interesting things about yourself!
+As a little thank you for your efforts, we provide a colab notebook that allows you to visualize your own data in just a few clicks, and even helps you learn some interesting things about yourself! (Click on the icon below to open it)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
 
-The notebook is still in development and built to be a tutorial for students. It will be updated with a dedicated notebook for visualization soon!
+Note: The notebook is still in development and built to be a tutorial for students. It will be updated with a dedicated notebook for visualization soon!
 
 # About Us and Contact details
 
 Feel free to contact us regarding any concerns or suggestions!
 
-Study Coordinator: 
+### Study Coordinator: 
 
 Raymond Sanchez, Department of Biology, University of Washington, (520) 205-2531, 
 
 email: <a href="mailto:raysan53@uw.edu">raysan53@uw.edu</a>
 
-Lead Researcher: 
+### Lead Researcher: 
 
 Horacio de la Iglesia, Department of Biology, University of Washington, (206) 616-4697, 
 
