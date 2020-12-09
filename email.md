@@ -52,7 +52,7 @@ This protocol assumes your work/university email account is hosted by Gmail or A
 
 15.  Go to the Google Colaboratory iPython notebook link below and follow the instructions in it. Make sure you repeat the process for both mbox files.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
 Once you've obtained the CSV files from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
 
@@ -72,6 +72,6 @@ Once you've obtained the CSV files from the notebook, continue by clicking <a hr
 
 7.  Go to the Google Colaboratory iPython notebook link below and follow the instructions in it. Make sure you repeat the process for both mbox files.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Get_Email_Timestamps_Notebook.ipynb)
 
 Once you've obtained the CSV files from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
