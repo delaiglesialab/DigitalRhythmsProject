@@ -22,7 +22,7 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
    
 ### A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
    
-   
+<hr>
    
 ## (Extra) Visualize it yourself!
 
