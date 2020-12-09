@@ -92,6 +92,8 @@ We highly recommend opening the file yourself! The file loads a seemingly endles
 
 Once you're comfortable with what the file contains, and sharing it with us, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
 
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="40" width="160">](https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
+
 [![continue](https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png)](https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
 
 <hr>
