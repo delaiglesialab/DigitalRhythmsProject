@@ -11,7 +11,7 @@ As a little treat for your efforts, we also offer an online tool to visualize yo
 
 ## How to help (with your data)
 
-### Step 1: Identifying the kind of data you have
+### Step 0: Identify the data you have
 
 Below is a list of the kinds of data we are looking for. You may have more than one kind of data that we could use and we would greatly appreciate if you submit multiple files! Don't be hesitant to share your data even if you feel you don't use either mode enough, the questionnaire that follows allows you to detail on how much and for what purposes you use these mediums and you'd be surprised at how helpful they may be to us!
 
