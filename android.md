@@ -88,6 +88,9 @@ We highly recommend opening the file yourself! The file loads a seemingly endles
 
 Once you're comfortable with what the file contains, and sharing it with us, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
 
+<hr>
+<hr>
+
 However, if you are still concerned, we offer you the choice of extracting the information with the same method that we would use with the file, and checking the CSV file before sharing it with us. Click on the icon below to open a google colab notebook and follow the instructions within. It offers the option of removing appnames as well, but please consider not doing so to allow us the chance to do more interesting analyses with the data!
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
