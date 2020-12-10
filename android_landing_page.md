@@ -1,6 +1,10 @@
 # Before you start
 
+### Thank you!
+
 Every single submission greatly increases the reach and generalizability of this study and I genuinely appreciate you taking the time to help me out.
+
+### General Information
 
 In the next page you will see instructions on how to obtain your android app timestamps data "Android my activity" from google takeout, and once that is done, you'll be asked to consent, get a code to deidentify your file and finally fill out a questionnaire about it. 
 
