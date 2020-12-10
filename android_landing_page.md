@@ -8,7 +8,7 @@ Every single submission greatly increases the reach and generalizability of this
 
 In the next page you will see instructions on how to obtain your android app timestamps data "Android my activity" from google takeout, and once that is done, you'll be asked to consent, get a code to deidentify your file and finally fill out a questionnaire about it. 
 
-It takes less than 15 minutes for most people. Click the start button at the end of the page to get started.
+It takes less than 15 minutes for most people. Click the button at the end of the page to get started.
 
 I would suggest using a laptop for comfort, although it is just as easy on a phone.
 
