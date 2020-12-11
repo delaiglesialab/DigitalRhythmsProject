@@ -20,11 +20,13 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
     
     Helping notes:
     
-    1. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards a data type you are not submitting. (Both android and e-mail have one section specifically pertaining to them, and the data collection page is common to both, other sections are for both)
+    1. You only need to upload once, for android - html, of the three upload options. Please select "no" for "did you upload email data" and "yes" for "did you submit android data"
     
-    2. Vacation days regard large holidays like semester breaks,days when you were being taught online is counted as a working day
+    2. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards a data type you are not submitting. (Both android and e-mail have one section specifically pertaining to them, and the data collection page is common to both, other sections are for both)
     
-    3. Your data from Last October to present will be used, so please mention any large vacations between October 2019 to December 2020.
+    3. Vacation days regard large holidays like semester breaks,days when you were being taught online is counted as a working day
+    
+    4. Your data from Last October to present will be used, so please mention any large vacations between October 2019 to December 2020.
     
 ### and you're done! We hope it did not take too long for you!
    
