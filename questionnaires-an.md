@@ -22,7 +22,7 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
     
     Helping notes:
     
-    1. In data upload, only use the Android - HTML option to upload the file, the oter upload options are to be left empty. If any question mentions Jupyter-notebooks or things not think was relevant to the steps you followed, leave it blank!
+    1. In data upload, only use the Android - HTML option to upload the file, the other upload options are to be left empty. If any question mentions Jupyter-notebooks or anything about emails, leave it blank!
     
     2. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards e-mails if submitting android data. (Both android and e-mail have one section specifically pertaining to them, and the data collection page and lifestyle questions are common for both)
     
