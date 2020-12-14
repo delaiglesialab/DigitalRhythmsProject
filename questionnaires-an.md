@@ -22,13 +22,13 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
     
     Helping notes:
     
-    1. You only need to upload once, for android - html, of the three upload options. Please select "no" for "did you upload email data" and "yes" for "did you submit android data"
+    1. In data upload, only use the Android - HTML option to upload the file, the oter upload options are to be left empty. If any question mentions Jupyter-notebooks or things not think was relevant to the steps you followed, leave it blank!
     
-    2. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards a data type you are not submitting. (Both android and e-mail have one section specifically pertaining to them, and the data collection page is common to both, other sections are for both)
+    2. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards e-mails if submitting android data. (Both android and e-mail have one section specifically pertaining to them, and the data collection page and lifestyle questions are common for both)
     
-    3. Vacation days regard large holidays like semester breaks,days when you were being taught online is counted as a working day
+    3. Vacation days only regard large holidays like semester breaks,days when you were being taught online is counted as a working day. Your data from Last October to present will be used, so please mention any large vacations between **October 2019 to December 2020.**
     
-    4. Your data from Last October to present will be used, so please mention any large vacations between October 2019 to December 2020.
+    4. No need to mention holidays observed: just mention the weekends you get (Saturday and Sunday/Sundays only, etc.)
     
 ### and you're done! We hope it did not take too long for you!
    
