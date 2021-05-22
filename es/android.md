@@ -1,107 +1,107 @@
-# Step 1 of 2: Obtain the data
+# Paso 1 de 2: Obtenga los datos
 
-It's a short process that's really easy, but just to be clear we've documented each click required. So don't you worry, it's not remotely as time consuming as the length of this page makes it look.
+Es un proceso corto que es realmente fácil, pero para que quede claro, hemos documentado cada clic requerido. Así que no te preocupes, no es ni remotamente tan lento como parece la longitud de esta página.
 
-### To obtain your Android app activity data:
+### Para obtener los datos de actividad de tu aplicación de Android:
 
-The first step is to click the link below to go to the google takeout service.
+El primer paso es hacer clic en el enlace de abajo para ir al servicio de comida para llevar de Google.
 
-### <a href="https://takeout.google.com" target="_blank">takeout.google.com</a>
+### <a href="https://takeout.google.com" target="_blank"> takeout.google.com </a>
 
-ensure you are signed into the same account as the primary one on your android phone.
+asegúrese de haber iniciado sesión en la misma cuenta que la principal en su teléfono Android.
 
-Next, click on "deselect all" as shown below, since we only want to export the app activity data!
-
-
-![1](https://user-images.githubusercontent.com/68754864/96494580-2dd69800-1264-11eb-93a3-8a2270246b41.png)
+A continuación, haga clic en "deseleccionar todo" como se muestra a continuación, ya que solo queremos exportar los datos de actividad de la aplicación.
 
 
-Next, scroll down to find the "My Activity" banner. It is usually between "Maps (your places)" and "My Maps".
-
-Tick the checkbox on the right, and click the "Multiple Formats" button on the left.
+! [1] (https://user-images.githubusercontent.com/68754864/96494580-2dd69800-1264-11eb-93a3-8a2270246b41.png)
 
 
-![2](https://user-images.githubusercontent.com/68754864/96494591-2fa05b80-1264-11eb-8639-2863cdcbf71d.png)
+A continuación, desplácese hacia abajo para encontrar el banner "Mi actividad". Por lo general, se encuentra entre "Mapas (sus lugares)" y "Mis mapas".
+
+Marque la casilla de verificación a la derecha y haga clic en el botón "Formatos múltiples" a la izquierda.
 
 
-In the pop-up that opens, be sure that Activity Records is set to the HTML format like the picture below and **NOT** JSON. Click "Ok" to continue.
+! [2] (https://user-images.githubusercontent.com/68754864/96494591-2fa05b80-1264-11eb-8639-2863cdcbf71d.png)
 
 
-![3](https://user-images.githubusercontent.com/68754864/96494593-3038f200-1264-11eb-87f8-0b629b36ce14.png)
+En la ventana emergente que se abre, asegúrese de que los Registros de actividad estén configurados en el formato HTML como la imagen de abajo y ** NO ** JSON. Haga clic en "Aceptar" para continuar.
 
 
-Now click the button that says "All activity data included" and in the pop-up, first click "Deselect all" and then tick the checkbox for Android as shown. Click "OK" to continue.
+! [3] (https://user-images.githubusercontent.com/68754864/96494593-3038f200-1264-11eb-87f8-0b629b36ce14.png)
 
 
-![4](https://user-images.githubusercontent.com/68754864/96494595-30d18880-1264-11eb-8b41-3469de97fd8c.png)
+Ahora haga clic en el botón que dice "Todos los datos de actividad incluidos" y en la ventana emergente, primero haga clic en "Deseleccionar todo" y luego marque la casilla de verificación para Android como se muestra. Haga clic en "Aceptar" para continuar.
 
 
-Scroll all the way down, and click "Next Step".
+! [4] (https://user-images.githubusercontent.com/68754864/96494595-30d18880-1264-11eb-8b41-3469de97fd8c.png)
 
 
-![5](https://user-images.githubusercontent.com/68754864/96494596-316a1f00-1264-11eb-814e-f31320e5c922.png)
+Desplácese hacia abajo y haga clic en "Paso siguiente".
 
 
-In the second step, select frequency "Export Once". The file type is your choice, most people are comfortable with .zip, pick the one you know you can open. .tgz files may require extra software on windows and mac, so .zip is safer for most. The default file size of 2GB (.zip) is perfectly fine. The download should not be too large (<100mb) depending on your usage.
-
-Click "Create Export" and you're done! (almost)
+! [5] (https://user-images.githubusercontent.com/68754864/96494596-316a1f00-1264-11eb-814e-f31320e5c922.png)
 
 
-![6](https://user-images.githubusercontent.com/68754864/96494598-3202b580-1264-11eb-8605-0c415020ab06.png)
+En el segundo paso, seleccione la frecuencia "Exportar una vez". El tipo de archivo es su elección, la mayoría de las personas se sienten cómodas con .zip, elija el que sepa que puede abrir. Los archivos .tgz pueden requerir software adicional en Windows y Mac, por lo que .zip es más seguro para la mayoría. El tamaño de archivo predeterminado de 2 GB (.zip) está perfectamente bien. La descarga no debe ser demasiado grande (<100 MB) dependiendo de su uso.
+
+Haga clic en "Crear exportación" y listo. (casi)
 
 
-Once you click "create export" you will see a new banner like this, telling you it is under way. The process only takes about 5 minutes.
-
-**However** you may receive a notification on your phone and an e-mail from google, asking you to confirm it was you that requested an export. You may not recieve a download link till you open that e-mail/notification and click "yes". 
-
-So check your e-mail!
+! [6] (https://user-images.githubusercontent.com/68754864/96494598-3202b580-1264-11eb-8605-0c415020ab06.png)
 
 
-![7](https://user-images.githubusercontent.com/68754864/96494600-329b4c00-1264-11eb-8fc3-c50fc6694cd1.png)
+Una vez que haga clic en "crear exportación", verá un nuevo banner como este, indicándole que está en marcha. El proceso solo toma unos 5 minutos.
+
+** Sin embargo ** puede recibir una notificación en su teléfono y un correo electrónico de Google, pidiéndole que confirme que fue usted quien solicitó una exportación. Es posible que no reciba un enlace de descarga hasta que abra ese correo electrónico / notificación y haga clic en "Sí".
+
+¡Así que revisa tu correo electrónico!
 
 
-Now, you can sit back and wait for the e-mail from google, which can sometimes be delayed even though the process itself is quite fast.
-
-Alternatively, should you reload the page, you will find a new banner on top, with a button for "Manage Exports" as shown below.
+! [7] (https://user-images.githubusercontent.com/68754864/96494600-329b4c00-1264-11eb-8fc3-c50fc6694cd1.png)
 
 
-![8](https://user-images.githubusercontent.com/68754864/96494602-3333e280-1264-11eb-9783-3fd16e0bfc68.png)
+Ahora, puede sentarse y esperar el correo electrónico de Google, que a veces puede retrasarse a pesar de que el proceso en sí es bastante rápido.
+
+Alternativamente, si vuelve a cargar la página, encontrará un nuevo banner en la parte superior, con un botón para "Administrar exportaciones", como se muestra a continuación.
 
 
-Clicking it opens a new page with your history of exports, and it will say your export is in progress. If you're lucky, you'll see the export with the download link right away (granted you verified it from your e-mail or phone). If not, just wait and reload in a bit and you should get the download option.
+! [8] (https://user-images.githubusercontent.com/68754864/96494602-3333e280-1264-11eb-9783-3fd16e0bfc68.png)
 
 
-![9](https://user-images.githubusercontent.com/68754864/96494604-33cc7900-1264-11eb-9f82-d90ccdc70ec5.png)
+Al hacer clic en él, se abre una nueva página con su historial de exportaciones, y dirá que su exportación está en curso. Si tiene suerte, verá la exportación con el enlace de descarga de inmediato (dado que lo verificó desde su correo electrónico o teléfono). Si no es así, simplemente espere y vuelva a cargar en un momento y debería obtener la opción de descarga.
 
 
-The download may require you sign-in again by entering your password.
-
-Once you've downloaded it, open the archive (zip/tgz) using your favourite archive manager. (winRAR, 7z, etc.)(your OS (i.e. windows/mac may also support it within the file manager, so just double click and see what comes!)
-
-Once open, go into the "Takeout" folder, then the "My Activity" folder, then the "Android" folder to find the "My Activity.html" file. 
-
-in the archive: /Takeout/My Activity/Android/My Activity.html
+! [9] (https://user-images.githubusercontent.com/68754864/96494604-33cc7900-1264-11eb-9f82-d90ccdc70ec5.png)
 
 
-![10](https://user-images.githubusercontent.com/68754864/96496886-76dc1b80-1267-11eb-9805-562158c3a71e.png)
+La descarga puede requerir que inicie sesión nuevamente ingresando su contraseña.
+
+Una vez que lo haya descargado, abra el archivo (zip / tgz) usando su administrador de archivos favorito. (winRAR, 7z, etc.) (su sistema operativo (es decir, windows / mac también puede admitirlo dentro del administrador de archivos, así que simplemente haga doble clic y vea lo que viene).
+
+Una vez abierta, vaya a la carpeta "Takeout", luego a la carpeta "Mi actividad", luego a la carpeta "Android" para encontrar el archivo "Mi actividad.html".
+
+en el archivo: / Takeout / My Activity / Android / My Activity.html
 
 
-Copy and save this file at a convenient location to upload in the next step.
+! [10] (https://user-images.githubusercontent.com/68754864/96496886-76dc1b80-1267-11eb-9805-562158c3a71e.png)
 
-You're done with this stage of the process!
 
-We highly recommend you to open the file yourself! The file loads a seemingly endless webpage with a list of app names and timestamps but no personal details. In the next stage of the process (after you click continue), you will receive a code and rename the file with it, such that it cannot be identified back to you.
+Copie y guarde este archivo en una ubicación conveniente para cargarlo en el siguiente paso.
 
-Once you're comfortable with sharing the file with us anonymously, click the button below.
+¡Terminaste con esta etapa del proceso!
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
+¡Le recomendamos encarecidamente que abra el archivo usted mismo! El archivo carga una página web aparentemente interminable con una lista de nombres de aplicaciones y marcas de tiempo, pero sin detalles personales. En la siguiente etapa del proceso (después de hacer clic en Continuar), recibirá un código y cambiará el nombre del archivo con él, de modo que no se le pueda volver a identificar.
+
+Una vez que se sienta cómodo compartiendo el archivo con nosotros de forma anónima, haga clic en el botón de abajo.
+
+[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">] (https: / /delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
 
 <hr>
 <hr>
 <hr>
 
-However, if you are still concerned, we offer you the choice of extracting the information with the same method that we would use with the file, and obtaining a CSV file before sharing it with us. Click on the icon below to open a google colab notebook and follow the instructions within. It offers the option of removing appnames as well, but please consider not doing so to allow us the chance to do more interesting analyses with the data!
+Sin embargo, si aún le preocupa, le ofrecemos la opción de extraer la información con el mismo método que usaríamos con el archivo, y obtener un archivo CSV antes de compartirlo con nosotros. Haga clic en el icono de abajo para abrir un cuaderno de Google Colab y siga las instrucciones que se encuentran dentro. También ofrece la opción de eliminar nombres de aplicaciones, pero considere no hacerlo para permitirnos la oportunidad de hacer análisis más interesantes con los datos.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
+[! [Abrir en Colab] (https://colab.research.google.com/assets/colab-badge.svg)] (https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/ main / Android_Timestamps_Notebook.ipynb)
 
-Once you've obtained the CSV file from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
+Una vez que haya obtenido el archivo CSV del cuaderno, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires"> aquí. </a>
