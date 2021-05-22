@@ -6,13 +6,13 @@ Asegúrese de haber obtenido un archivo de datos, haberlo visto y sentirse cómo
 
     <img src = "https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height = "40" width = "40">
 
-2. A continuación, envíe sus datos y reciba su * código exclusivo * de 5 caracteres <a href="https://docs.google.com/forms/d/e/1FAIpQLScIIiCoDeyHSJua0dggl3DbIPoXbTsXZiq2M7ozJJpS9qKqWA/viewform" target="_blank"> aquí </ a>
+2. A continuación, envíe sus datos y reciba su * código exclusivo * de 5 caracteres <a href="https://docs.google.com/forms/d/e/1FAIpQLScIIiCoDeyHSJua0dggl3DbIPoXbTsXZiq2M7ozJJpS9qKqWA/viewform" target="_blank"> aquí </a>
 
     <img src = "https://user-images.githubusercontent.com/42762378/101791343-6e96b300-3b29-11eb-8947-dc7259ec675a.png" height = "40" width = "40">
    
-    * ¡Asegúrese de cambiar el nombre de cada archivo que enviará con el código! Este paso es independiente para garantizar que su nombre, contacto y código estén disponibles juntos solo para el documento de consentimiento, y ni siquiera en nuestros propios sistemas. *
+    *¡Asegúrese de cambiar el nombre de cada archivo que enviará con el código! Este paso es independiente para garantizar que su nombre, contacto y código estén disponibles juntos solo para el documento de consentimiento, y ni siquiera en nuestros propios sistemas.*
 
-3. Finalmente, una vez que haya ** cambiado el nombre ** del archivo, cárguelo y complete el cuestionario <a href = "https://docs.google.com/forms/d/e/1FAIpQLSemCWlRHmJQAsM_O9g9rORyiRFyMrVUIczpaGzGJbNuIB4jtQ/viewform" target = "_ blank"> aquí </a>
+3. Finalmente, una vez que haya **cambiado el nombre** del archivo, cárguelo y complete el cuestionario <a href = "https://docs.google.com/forms/d/e/1FAIpQLSemCWlRHmJQAsM_O9g9rORyiRFyMrVUIczpaGzGJbNuIB4jtQ/viewform" target = "_ blank"> aquí </a>
 
     <img src = "https://www.google.com/images/about/forms-icon.svg" height = "40" width = "40">
     
