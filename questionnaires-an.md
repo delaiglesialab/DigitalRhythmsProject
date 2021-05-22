@@ -16,19 +16,8 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 
 3. Finally, once you've **re-named** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank">here</a>
 
-    ***Please read the notes below before filling the form, it will save you a lot of time and effort.***
-
     <img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40">
     
-    Helping notes:
-    
-    1. In data upload, only use the Android - HTML option to upload the file, the other upload options are to be left empty. If any question mentions Jupyter-notebooks or anything about emails, leave it blank!
-    
-    2. The form is common for e-mail timestamps and android timestamps, do **NOT** answer the questions that are asked towards e-mails if submitting android data. (Both android and e-mail have one section specifically pertaining to them, and the data collection page and lifestyle questions are common for both)
-    
-    3. Vacation days only regard large holidays like semester breaks,days when you were being taught online is counted as a working day. Your data from Last October to present will be used, so please mention any large vacations between **October 2019 to December 2020.**
-    
-    4. No need to mention holidays observed: just mention the weekends you get (Saturday and Sunday/Sundays only, etc.)
     
 ### and you're done! We hope it did not take too long for you!
    
