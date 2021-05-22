@@ -104,4 +104,4 @@ Sin embargo, si aún le preocupa, le ofrecemos la opción de extraer la informac
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
 
-Una vez que haya obtenido el archivo CSV del cuaderno, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires"> aquí. </a>
+Una vez que haya obtenido el archivo CSV del cuaderno, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/Questionnaires"> aquí. </a>
