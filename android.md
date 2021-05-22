@@ -94,7 +94,7 @@ We highly recommend you to open the file yourself! The file loads a seemingly en
 
 Once you're comfortable with sharing the file with us anonymously, click the button below.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/questionnaires-an)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
 
 <hr>
 <hr>
@@ -104,4 +104,4 @@ However, if you are still concerned, we offer you the choice of extracting the i
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
 
-Once you've obtained the CSV file from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/questionnaires-an">here.</a>
+Once you've obtained the CSV file from the notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires">here.</a>
