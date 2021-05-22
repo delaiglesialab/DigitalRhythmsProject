@@ -24,7 +24,7 @@ Marque la casilla de verificación a la derecha y haga clic en el botón "Format
 ![2](https://user-images.githubusercontent.com/68754864/96494591-2fa05b80-1264-11eb-8639-2863cdcbf71d.png)
 
 
-En la ventana emergente que se abre, asegúrese de que los Registros de actividad estén configurados en el formato HTML como la imagen de abajo y ** NO ** JSON. Haga clic en "Aceptar" para continuar.
+En la ventana emergente que se abre, asegúrese de que los Registros de actividad estén configurados en el formato HTML como la imagen de abajo y **NO** JSON. Haga clic en "Aceptar" para continuar.
 
 
 ![3](https://user-images.githubusercontent.com/68754864/96494593-3038f200-1264-11eb-87f8-0b629b36ce14.png)
@@ -52,7 +52,7 @@ Haga clic en "Crear exportación" y listo. (casi)
 
 Una vez que haga clic en "crear exportación", verá un nuevo banner como este, indicándole que está en marcha. El proceso solo toma unos 5 minutos.
 
-** Sin embargo ** puede recibir una notificación en su teléfono y un correo electrónico de Google, pidiéndole que confirme que fue usted quien solicitó una exportación. Es posible que no reciba un enlace de descarga hasta que abra ese correo electrónico / notificación y haga clic en "Sí".
+**Sin embargo** puede recibir una notificación en su teléfono y un correo electrónico de Google, pidiéndole que confirme que fue usted quien solicitó una exportación. Es posible que no reciba un enlace de descarga hasta que abra ese correo electrónico / notificación y haga clic en "Sí".
 
 ¡Así que revisa tu correo electrónico!
 
