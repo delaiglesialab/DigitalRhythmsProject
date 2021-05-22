@@ -10,7 +10,7 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 
     <img src="https://user-images.githubusercontent.com/42762378/101791343-6e96b300-3b29-11eb-8947-dc7259ec675a.png" height="40" width="40">
    
-    Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document, and not even on our own systems.
+    *Make sure you rename each file that you will be submitting with the code! This step is independent to ensure that your name, contact and code are available together only for the consent document, and not even on our own systems.*
 
 3. Finally, once you've **re-named** the file, upload that and fill out the questionnaire <a href="https://docs.google.com/forms/d/e/1FAIpQLSemCWlRHmJQAsM_O9g9rORyiRFyMrVUIczpaGzGJbNuIB4jtQ/viewform" target="_blank">here</a>
 
