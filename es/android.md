@@ -94,7 +94,7 @@ Copie y guarde este archivo en una ubicación conveniente para cargarlo en el si
 
 Una vez que se sienta cómodo compartiendo el archivo con nosotros de forma anónima, haga clic en el botón de abajo.
 
-[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://delaiglesialab.github.io/DigitalRhythmsProject/Questionnaires)
+[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/Questionnaires)
 
 <hr>
 <hr>
