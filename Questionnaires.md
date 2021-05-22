@@ -7,8 +7,6 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
     <img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40">
 
 2.  Next, submit your details and receive your *unique* 5 character code <a href="https://docs.google.com/forms/d/e/1FAIpQLScIIiCoDeyHSJua0dggl3DbIPoXbTsXZiq2M7ozJJpS9qKqWA/viewform" target="_blank">here</a>
-    
-    ***Please use the links from this page and not the one offered when you submit this form***
 
     <img src="https://user-images.githubusercontent.com/42762378/101791343-6e96b300-3b29-11eb-8947-dc7259ec675a.png" height="40" width="40">
    
