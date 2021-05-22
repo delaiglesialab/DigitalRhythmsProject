@@ -6,7 +6,7 @@ Asegúrese de haber obtenido un archivo de datos, haberlo visto y sentirse cómo
 
     <img src = "https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height = "40" width = "40">
 
-2. A continuación, envíe sus datos y reciba su * código exclusivo * de 5 caracteres <a href="https://docs.google.com/forms/d/e/1FAIpQLScIIiCoDeyHSJua0dggl3DbIPoXbTsXZiq2M7ozJJpS9qKqWA/viewform" target="_blank"> aquí </a>
+2. A continuación, envíe sus datos y reciba su *código exclusivo* de 5 caracteres <a href="https://docs.google.com/forms/d/e/1FAIpQLScIIiCoDeyHSJua0dggl3DbIPoXbTsXZiq2M7ozJJpS9qKqWA/viewform" target="_blank"> aquí </a>
 
     <img src = "https://user-images.githubusercontent.com/42762378/101791343-6e96b300-3b29-11eb-8947-dc7259ec675a.png" height = "40" width = "40">
    
