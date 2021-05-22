@@ -102,6 +102,6 @@ Una vez que se sienta cómodo compartiendo el archivo con nosotros de forma anó
 
 Sin embargo, si aún le preocupa, le ofrecemos la opción de extraer la información con el mismo método que usaríamos con el archivo, y obtener un archivo CSV antes de compartirlo con nosotros. Haga clic en el icono de abajo para abrir un cuaderno de Google Colab y siga las instrucciones que se encuentran dentro. También ofrece la opción de eliminar nombres de aplicaciones, pero considere no hacerlo para permitirnos la oportunidad de hacer análisis más interesantes con los datos.
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/espa%C3%B1ol_Android_Timestamps_Notebook.ipynb)
 
 Una vez que haya obtenido el archivo CSV del cuaderno, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/Questionnaires"> aquí. </a>
