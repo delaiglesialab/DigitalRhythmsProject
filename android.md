@@ -6,7 +6,7 @@ It's a short process that's really easy, but just to be clear we've documented e
 
 The first step is to click the link below to go to the google takeout service.
 
-<a href="https://takeout.google.com" target="_blank">takeout.google.com</a>
+### <a href="https://takeout.google.com" target="_blank">takeout.google.com</a>
 
 ensure you are signed into the same account as the primary one on your android phone.
 
