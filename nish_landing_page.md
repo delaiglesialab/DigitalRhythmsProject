@@ -14,8 +14,9 @@ I would suggest using a laptop for comfort, although it is just as easy on a pho
 
 Don't hesitate to get in touch with me if you face any issues whatsoever! 
 
-~ Nishant
 
 ( +91 9920431714 , nishantjana5@gmail.com , [@In_Visilico](https://twitter.com/In_Visilico) on twitter )
+
+~ Nishant
 
 [<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/android)
