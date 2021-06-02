@@ -20,13 +20,3 @@ Please ensure you've obtained a data file, viewed it and are comfortable with sh
 ### and you're done! We hope it did not take too long for you!
    
 ### A sincere thank you from the de la Iglesia lab at the University of Washington, Seattle!
-   
-<hr>
-   
-## (Extra) Visualize it yourself!
-
-As a little thank you for your efforts, we provide a colab notebook that allows you to visualize your own data in just a few clicks, and even helps you learn some interesting things about yourself! (Click on the icon below to open it)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
-
-Note: The notebook is still in development and built to be a tutorial for students. It will be updated with a dedicated notebook for visualization soon!
