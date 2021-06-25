@@ -85,7 +85,7 @@ We highly recommend you to open the file for yourself, if you'd like. The file w
 
 Once you're comfortable with sharing the file with us anonymously, click the button below.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/questionnaires-an)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/3_Questionnaires)
 
 <hr>
 
