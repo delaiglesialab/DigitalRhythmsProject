@@ -12,9 +12,9 @@ Once you are ready, fill out the following questionnaire and upload your file.
 
 <hr>
 
-## <u>A **thank you** gift from our team:</u>
+## A **thank you** gift from our team:
 
-## Visualize the data yourself!
+### Visualize the data yourself!
 
 As a little thank you for your effort, we invite you to use the this specially designed *Colab* notebook that will allow you to visualize your own data in just a few clicks, and help you learn some interesting things about yourself and your daily patterns. This is not linked to our research in any way, and you won't have to provide any data. Everything can be done on your own end, for your personal enjoyment :)
 
