@@ -19,4 +19,4 @@ Don't hesitate to get in touch with me if you face any issues whatsoever!
 
 ~ Nishant
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/android)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)
