@@ -15,7 +15,7 @@ At this time in the project we are interested in gathering Android phone app usa
 
 Don't hesitate to share your data even if you feel you don't use your phone enough. You'd be surprised at how helpful the data may be for us!
 
-When you are ready to help with some Android timestamps data, click <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/android">here!</a>
+When you are ready to help with some Android timestamps data, click <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/2_android">here!</a>
 
 
 
