@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/1_android_landing_page">leer en español</a></div>
+
 # Step 2 of 2: Initial Questionnaire and File Upload
 
 Please make sure you have correctly obtained your data file, and that you have already viewed its contents, and that are comfortable with sharing it before moving forward.
