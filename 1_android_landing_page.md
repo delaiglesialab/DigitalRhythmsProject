@@ -1,3 +1,5 @@
+[<p style="text-align:right;">leer en español</p>](https://delaiglesialab.github.io/DigitalRhythmsProject/es/1_android_landing_page)
+
 # Before you start
 
 ### Consent for participation
