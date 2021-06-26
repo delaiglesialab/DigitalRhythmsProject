@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_Questionnaires" target="_blank">leer en español</a></div>
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_Questionnaires">leer en español</a></div>
 
 # Step 2 of 2: Initial Questionnaire and File Upload
 
