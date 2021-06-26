@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/1_android_landing_page">Read in Englishl</a></div>
+
 # Antes de que empieces
 
 ### Consentimiento para participar
