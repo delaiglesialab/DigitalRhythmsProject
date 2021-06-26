@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/1_android_landing_page">Read in English</a></div>
+
 # Paso 2 de 2: Cuestionario inicial y carga de archivos
 
 Asegúrese de haber obtenido correctamente su archivo de datos, de que ya ha visto su contenido y de que se siente cómodo compartiéndolo antes de seguir adelante.
