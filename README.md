@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/1_android_landing_page">leer en español</a></div>
+
 <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
 
 # The DigitalRhythms Project
