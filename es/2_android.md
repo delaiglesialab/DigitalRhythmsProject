@@ -1,5 +1,3 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/1_android_landing_page">Read in English</a></div>
-
 # Paso 1 de 2: Obtenga los datos
 
 Es un proceso corto y simple, pero solo para que sea aún más fácil para usted, hemos documentado casi todos los clics requeridos. Así que no se preocupe, no es ni remotamente tan lento como puede parecer en esta larga página.
