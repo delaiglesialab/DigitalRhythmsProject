@@ -18,4 +18,4 @@ It takes less than 15 minutes for most people to "order" this file from Google. 
 
 Click the button below to get started.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)
+[<img src="https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)
