@@ -1,6 +1,6 @@
 <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
 
-# The DigitalRhythms project
+# The DigitalRhythms Project
 
 Our current study focuses on the effect COVID-19 had on our work rhythms. We believe that the stay-at-home orders forced people into a very peculiar situation, drawn away from the social conventions of 9-to-5 worklife. We believe that the digital footprints we leave when engaging with technology everyday may provide a valuable proxy to study our daily habits and the changes experimented during such particular events.
 
