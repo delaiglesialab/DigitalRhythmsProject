@@ -31,7 +31,7 @@ If you have questions later about the research, or if you have been harmed by pa
 Please feel free to distribute widely. Those who are interested in participating please contact the research
 Team or head straight to the study’s webpage:
 
-**https://delaiglesialab.github.io/DigitalRhythmsProject/**
+<a href="https://delaiglesialab.github.io/DigitalRhythmsProject/" target="blank">**https://delaiglesialab.github.io/DigitalRhythmsProject/**</a>
 
 Leandro Casiraghi: lcasira@uw.edu
 
