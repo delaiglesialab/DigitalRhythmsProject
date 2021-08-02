@@ -22,6 +22,4 @@ As a little thank you for your effort, we invite you to use the this specially d
 
 Click on the icon below to open the Google Colab notebook and have fun!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/Digital_Behaviour_Notebook.ipynb)
-
-**Note**: The notebook is still in development and built to be a tutorial for students. It will be updated every now and then, so if you like it, save the link to this page and come back to use it again with the same or different data!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/DataVizTool.ipynb)
