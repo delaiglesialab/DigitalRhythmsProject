@@ -84,7 +84,7 @@ Le recomendamos que abra este archivo en su computadora y lo revise, si así lo 
 
 Una vez que se sienta cómodo con compartir este archivo con nosotros, haga clic en el botón más abajo.
 
-[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/Questionnaires)
+[<img src = "https://user-images.githubusercontent.com/42762378/101690680-9dfae080-3a93-11eb-8552-e4a65f2babfc.png" height = "30" width = "120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/4_Questionnaires)
 
 <hr>
 
@@ -92,4 +92,4 @@ Sin embargo, si todavía tiene dudas, le ofrecemos la opción de generar un nuev
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/es/espa%C3%B1ol_Android_Timestamps_Notebook.ipynb)
 
-Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/Questionnaires"> aquí. </a>
+Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/4_Questionnaires"> aquí. </a>

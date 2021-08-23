@@ -15,4 +15,4 @@ El proceso para "ordenar" este archivo de los servidores de Google no debiera to
 
 Haga clic en el botón de abajo para empezar.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/android)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_android)
