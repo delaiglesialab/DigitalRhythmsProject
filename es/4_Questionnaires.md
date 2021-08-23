@@ -4,7 +4,7 @@ Por favor, asegúreses de tener listo su archivo de datos, de haber revisado sus
 
 Una vez listo, complete el cuestionario que sigue y suba su archivo.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfmus7ZGrjeCBVHGkXRey-aU1y0DbflYQ1iivucsFOyBtBSHg/viewform?usp=sf_link" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
+<a href="https://forms.gle/pnxMhMZ9pinqr7349" target="_blank"><img src="https://www.google.com/images/about/forms-icon.svg" height="40" width="40"></a>
 
 ### ¡Y ya ha terminado!
 #### Realmente apreciamos su esfuerzo para ayudarnos en nuestro proyecto de investigación y esperamos que no le haya tomado demasiado tiempo.

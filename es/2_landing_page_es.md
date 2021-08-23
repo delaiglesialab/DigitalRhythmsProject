@@ -3,7 +3,7 @@
 ### Consentimiento para participar
 Para poder utilizar sus datos en nuestra investigación, necesitamos primero que complete un documento de 'consentimiento informado'. Le pedimos que primero lea el texto con atención; si tiene alguna duda o pregunta, por favor pónganse en contacto con nostros a través de los medios indicados. Si decide participar de nuestro estudio, complete el formulario con su información y continúe al paso siguiente.
 
-<a href="https://redcap.iths.org/surveys/?s=34X3HD7YYL" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40"></a>
+<a href="https://redcap.iths.org/surveys/?s=W4R74DYFXNYEARJT" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40"></a>
 
 
 
