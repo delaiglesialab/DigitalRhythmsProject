@@ -12,34 +12,25 @@ Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en 
 
 A continuación, haga clic en "deseleccionar todo" como se muestra a continuación, ya que solo queremos exportar los datos de actividad de las aplicaciones.
 
-![1](https://user-images.githubusercontent.com/68754864/96494580-2dd69800-1264-11eb-93a3-8a2270246b41.png)
-
+<img src="./images/1.desmarcar.jpg" width = 600>
 
 Luego desplácese hacia abajo para encontrar el cartel "Mi actividad". Por lo general, se encuentra entre "Mapas" y "Mis mapas".
 
 Marque la casilla de verificación a la derecha y haga clic en el botón "Formatos múltiples" a la izquierda.
 
-
-![2](https://user-images.githubusercontent.com/68754864/96494591-2fa05b80-1264-11eb-8639-2863cdcbf71d.png)
-
+<img src="./images/2.mi_actividad.jpg" width = 600>
 
 En la ventana emergente, asegúrese de que los *Registros de actividad* estén configurados en el formato HTML como la imagen de abajo y **NO** JSON. Haga clic en "Aceptar" para continuar.
 
-
-![3](https://user-images.githubusercontent.com/68754864/96494593-3038f200-1264-11eb-87f8-0b629b36ce14.png)
-
+<img src="./images/3.opciones.jpg" width = 600>
 
 Ahora haga clic en el botón que dice "Todos los datos de actividad incluidos", y en la ventana emergente, primero haga clic en "Deseleccionar todo" y luego marque la casilla de verificación para Android como se muestra abajo. Haga clic en "Aceptar" para continuar.
 
-
-![4](https://user-images.githubusercontent.com/68754864/96494595-30d18880-1264-11eb-8b41-3469de97fd8c.png)
-
+<img src="./images/4.datos_android.jpg" width = 600>
 
 Desplácese hacia abajo y haga clic en "Paso siguiente".
 
-
-![5](https://user-images.githubusercontent.com/68754864/96494596-316a1f00-1264-11eb-814e-f31320e5c922.png)
-
+<img src="./images/5.sig_paso.jpg" width = 600>
 
 En el segundo paso, seleccione la frecuencia "Exportar una vez". Puede escoger el tipo de archivo de descarga que sepa que puede abrir (la mayoría de las personas se sentirán familiarizadas con el formato '.zip').
 
@@ -47,12 +38,11 @@ El tamaño máximo de archivo predeterminado de 2 GB (.zip) puede ser dejada tal
 
 Haga clic en "Crear exportación", y estará (casi) listo.
 
-![6](https://user-images.githubusercontent.com/68754864/96494598-3202b580-1264-11eb-8605-0c415020ab06.png)
-
+<img src="./images/6.export.jpg" width = 600>
 
 Una vez que haga clic en "Crear exportación", verá un nuevo banner como este, indicándole que la creación de su archivo está en marcha.
 
-![7](https://user-images.githubusercontent.com/68754864/96494600-329b4c00-1264-11eb-8fc3-c50fc6694cd1.png)
+<img src="./images/7.esperando.jpg" width = 600>
 
 Este proceso no debiera tomar más de 5 minutos. **Sin embargo, puede recibir una notificación en su teléfono y/o un correo electrónico de Google, pidiéndole que confirme que fue usted quien solicitó esta exportación. Es posible que no reciba un enlace de descarga hasta que abra ese correo electrónico o notificación y haga clic en "Sí".**
 
@@ -60,21 +50,17 @@ Ahora puede sentarse a esperar el mensaje de Google, que puede tomar más o meno
 
 Alternativamente, si vuelve a cargar la página, encontrará un nuevo cartel en la parte superior con un botón para "Administrar exportaciones", tal como se muestra a continuación.
 
-
-![8](https://user-images.githubusercontent.com/68754864/96494602-3333e280-1264-11eb-9783-3fd16e0bfc68.png)
-
+<img src="./images/8.end_curso.jpg" width = 600>
 
 Al hacer clic en él, se abrirá una nueva página con su historial de exportaciones, y dirá que su exportación está en curso. Si tiene suerte, verá la exportación con el enlace de descarga disponible de inmediato (provisto que hay confirmado ya desde su correo electrónico o teléfono). Si todavía no está disponible la descarga, simplemente espere y vuelva a cargar en un momento y debería obtener la opción de descarga.
 
-
-![9](https://user-images.githubusercontent.com/68754864/96494604-33cc7900-1264-11eb-9f82-d90ccdc70ec5.png)
-
+<img src="./images/9.descargar.jpg" width = 600>
 
 La descarga puede requerir que vuelva a iniciar sesión ingresando su contraseña. Una vez que lo haya descargado, abra el archivo comprimido usando su administrador de archivos favorito. (su sistema operativo puede que abra estos archivos sin problemas).
 
 Una vez abierto el archivo, ingrese en la carpeta ***"Takeout"***, luego a la carpeta ***"My Activity/Mi actividad"***, y finalmente a la carpeta ***"Android"*** para encontrar el archivo ***"Mi actividad.html"***.
 
-![10](https://user-images.githubusercontent.com/68754864/96496886-76dc1b80-1267-11eb-9805-562158c3a71e.png)
+<img src="./images/10.html.jpg" width = 600>
 
 Copie y guarde este archivo en una ubicación conveniente para cargarlo en el siguiente paso.
 
