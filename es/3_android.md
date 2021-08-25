@@ -1,5 +1,6 @@
 # Paso 1 de 2: Obteniendo los datos
 
+
 Este paso es bastante sencillo y debiera tomar poco tiempo, pero para que sea incluso más fácil, hemos documentado cada uno de los clics requeridos. Así que no se alarme, esto no será tan lento o complejo como la longitud de esta página parece sugerirlo.
 
 ### Cómo obtener los datos de actividad de su teléfono Android:
@@ -7,6 +8,8 @@ Este paso es bastante sencillo y debiera tomar poco tiempo, pero para que sea in
 El primer paso es hacer clic en el enlace aquí abajo para ir al servicio  Takeout de Google.
 
 ### <a href="https://takeout.google.com" target="_blank"> takeout.google.com </a>
+
+**En caso de que tengas configurado tu cuenta de Google en inglés podés seguir el tutorial en inglés en este [link](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)**
 
 Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en su teléfono Android.
 
