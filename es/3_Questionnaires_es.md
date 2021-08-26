@@ -13,9 +13,9 @@ Una vez listo, complete el cuestionario que sigue y suba su archivo.
 
 <hr>
 
-## <u>Un **regalo de agradecimiento** de parte de nuestro equipo:</u>
+## Un **regalo de agradecimiento** de parte de nuestro equipo:
 
-##  ¡Visualice usted mismo sus datos!
+### ¡Visualice usted mismo sus datos!
 
 Como agradecimiento por su esfuerzo, lo invitamos a utilizar este tutorial *Colab* especialmente diseñado que le permitirá visualizar sus propios datos en unos pocos clics, y ayudarlo a aprender algunas cosas interesantes acerca de usted mismo y sus patrones diarios. Esto no estará ligado a nuestro proyecto en ninguna forma, y no necesitará provernos de ninguna información. Todo puede hacerse en su propio dispositivo y para su propio disfrute :)
 

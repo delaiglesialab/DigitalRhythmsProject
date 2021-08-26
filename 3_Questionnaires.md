@@ -11,7 +11,6 @@ Once you are ready, fill out the following questionnaire and upload your file.
 ### And you're done!
 #### We truly appreciate your effort to help us in our research and hope that it did not take too much of your time.
 
-
 <hr>
 
 ## A **thank you** gift from our team:
