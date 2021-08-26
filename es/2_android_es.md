@@ -54,7 +54,7 @@ Ahora puede sentarse a esperar el mensaje de Google, que puede tomar más o meno
 
 Alternativamente, si vuelve a cargar la página, encontrará un nuevo cartel en la parte superior con un botón para "Administrar exportaciones", tal como se muestra a continuación.
 
-<img src="./images/8.end_curso.jpg" width = 600>
+<img src="./images/8.en_curso.jpg" width = 600>
 
 Al hacer clic en él, se abrirá una nueva página con su historial de exportaciones, y dirá que su exportación está en curso. Si tiene suerte, verá la exportación con el enlace de descarga disponible de inmediato (provisto que hay confirmado ya desde su correo electrónico o teléfono). Si todavía no está disponible la descarga, simplemente espere y vuelva a cargar en un momento y debería obtener la opción de descarga.
 
