@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es">leer en español</a></div>
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es">Leer en español</a> 🇪🇸 </div>
 
 <img src="https://icons-for-free.com/iconfiles/png/512/Android-1320568265274623818.png" height="40" width="40">
 
