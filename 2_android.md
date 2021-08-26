@@ -95,4 +95,4 @@ However, if you are still concerned, we offer you the choice of extracting the i
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/Android_Timestamps_Notebook.ipynb)
 
-After you've obtained the CSV file from the Colab notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/questionnaires-an">here.</a>
+After you've obtained the CSV file from the Colab notebook, continue by clicking <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/3_Questionnaires">here.</a>
