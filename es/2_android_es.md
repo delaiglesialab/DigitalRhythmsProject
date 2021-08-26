@@ -1,5 +1,6 @@
-# Paso 1 de 2: Obteniendo los datos
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/2_android.html">Read in English</a> 🇺🇸 </div>
 
+# Paso 1 de 2: Obteniendo los datos
 
 Este paso es bastante sencillo y debiera tomar poco tiempo, pero para que sea incluso más fácil, hemos documentado cada uno de los clics requeridos. Así que no se alarme, esto no será tan lento o complejo como la longitud de esta página parece sugerirlo.
 
@@ -81,4 +82,4 @@ Sin embargo, si todavía tiene dudas, le ofrecemos la opción de generar un nuev
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/delaiglesialab/DigitalRhythmsProject/blob/main/es/espa%C3%B1ol_Android_Timestamps_Notebook.ipynb)
 
-Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/4_Questionnaires"> aquí. </a>
+Una vez que haya obtenido el archivo (de extensión CSV) a través de este proceso, continúe haciendo clic <a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_Questionnaires_es"> aquí. </a>

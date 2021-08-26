@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_android.html">leer en español</a></div>
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/2_android_es.html">Leer en español</a> 🇪🇸 </div>
 
 # Step 1 of 2: Obtain the data
 

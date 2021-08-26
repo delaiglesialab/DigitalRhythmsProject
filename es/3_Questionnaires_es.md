@@ -1,3 +1,5 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/3_Questionnaires.html">Read in English</a> 🇺🇸 </div>
+
 # Paso 2 de 2: Cuestionario inicial y subida de datos
 
 Por favor, asegúreses de tener listo su archivo de datos, de haber revisado sus contenidos, y de estar cómodo con compartirlo con nosotros antes de continuar.
@@ -19,4 +21,4 @@ Como agradecimiento por su esfuerzo, lo invitamos a utilizar este tutorial *Cola
 
 Haga clic en el ícono de abajo para abrir el tutorial, ¡y diviértase!
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/DataVizTool.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/invisilico/Tutorial-Notebooks/blob/main/DataVizTool.ipynb)

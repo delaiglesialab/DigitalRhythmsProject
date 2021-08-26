@@ -1,4 +1,4 @@
-<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/2_landing_page_es.html">leer en español</a></div>
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/es/1_android_landing_page_es.html">Leer en español</a> 🇪🇸 </div>
 
 # Before you start
 

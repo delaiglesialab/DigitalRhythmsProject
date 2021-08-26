@@ -1,10 +1,11 @@
+<div style="text-align: right"><a href="https://delaiglesialab.github.io/DigitalRhythmsProject/1_android_landing_page.html">Read in English</a> 🇺🇸 </div>
+
 # Antes de empezar
 
 ### Consentimiento para participar
 Para poder utilizar sus datos en nuestra investigación, necesitamos primero que complete un documento de 'consentimiento informado'. Le pedimos que primero lea el texto con atención; si tiene alguna duda o pregunta, por favor pónganse en contacto con nostros a través de los medios indicados. Si decide participar de nuestro estudio, complete el formulario con su información y continúe al paso siguiente.
 
 <a href="https://redcap.iths.org/surveys/?s=W4R74DYFXNYEARJT" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2234/2234689.svg" height="40" width="40"></a>
-
 
 
 ### ¡Empecemos!
@@ -15,4 +16,4 @@ El proceso para "ordenar" este archivo de los servidores de Google no debiera to
 
 Haga clic en el botón de abajo para empezar.
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/3_android)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/2_android_es)
