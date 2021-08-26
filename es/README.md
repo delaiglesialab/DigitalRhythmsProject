@@ -19,7 +19,7 @@ No dude en compartir sus datos incluso si cree que no usa mucho su teléfono. ¡
 Cuando esté listo para compartir sus datos, haga clic en el botón de abajo.
 
 
-[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/2_landing_page_es)
+[<img src="https://user-images.githubusercontent.com/42762378/101787108-bd8e1980-3b24-11eb-93db-17a75fb16952.png" height="30" width="120">](https://delaiglesialab.github.io/DigitalRhythmsProject/es/1_android_landing_page_es)
 
 <hr>
 
