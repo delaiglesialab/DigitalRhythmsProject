@@ -10,7 +10,7 @@ El primer paso es hacer clic en el enlace aquí abajo para ir al servicio  Takeo
 
 ### <a href="https://takeout.google.com" target="_blank"> takeout.google.com </a>
 
-**En caso de que tengas configurado tu cuenta de Google en inglés podés seguir el tutorial en inglés en este [link](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)**
+**En caso de que tengas tu cuenta de Google configurada en inglés podés seguir este tutorial en inglés [acá](https://delaiglesialab.github.io/DigitalRhythmsProject/2_android)**
 
 Asegúrese de iniciar sesión con la misma cuenta que utiliza como principal en su teléfono Android.
 
