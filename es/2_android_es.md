@@ -50,7 +50,7 @@ Una vez que haga clic en "Crear exportación", verá un nuevo banner como este, 
 
 Este proceso no debiera tomar más de 5 minutos. **Sin embargo, puede recibir una notificación en su teléfono y/o un correo electrónico de Google, pidiéndole que confirme que fue usted quien solicitó esta exportación. Es posible que no reciba un enlace de descarga hasta que abra ese correo electrónico o notificación y haga clic en "Sí".**
 
-Ahora puede sentarse a esperar el mensaje de Google, que puede tomar más o menos tiempo dependiendo de la cola de trabajo en los servidores de Takeout. Siéntase libre de pausar estas instrucciones aquí y continuar cuando sea conveniente para usted. Salga a caminar, coma algo, haga un poco de yogo, o llame a un amigo/a - pero no se quede simplemente mirando la pantalla hasta que su archivo esté disponible :)
+Ahora puede sentarse a esperar el mensaje de Google, que puede tomar más o menos tiempo dependiendo de la cola de trabajo en los servidores de Takeout. Siéntase libre de pausar estas instrucciones aquí y continuar cuando sea conveniente para usted. Salga a caminar, coma algo, haga un poco de yoga, o llame a un amigo/a - pero no se quede simplemente mirando la pantalla hasta que su archivo esté disponible :)
 
 Alternativamente, si vuelve a cargar la página, encontrará un nuevo cartel en la parte superior con un botón para "Administrar exportaciones", tal como se muestra a continuación.
 
