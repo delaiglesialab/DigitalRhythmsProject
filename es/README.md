@@ -3,9 +3,9 @@
 
 # El Proyecto 'Ritmos Digitales'
 
-El proyecto que estamos llevando adelante busca estudia el efecto de la pandemia de COVID-19 en nuestros ritmos diarios de actividad. Sabemos que las distintas estrategias de aislamiento preventivo forzaron a las personas a vivir bajo condiciones muy particulares, liberadas de las convenciones temporales impuestas socialmente. Creemos que las "huellas digitales" que vamos dejando atrás durante nuestras interacciones con la tecnología a diario pueden proveernos de información valiosa para estudiar nuestros hábitos diarios y sus cambios durante situaciones tan extraordinarias.
+El proyecto que estamos llevando adelante busca estudiar el efecto de la pandemia de COVID-19 en nuestros ritmos diarios de actividad. Sabemos que las distintas estrategias de aislamiento preventivo forzaron a las personas a vivir bajo condiciones muy particulares, liberadas de las convenciones temporales impuestas socialmente. Creemos que las "huellas digitales" que vamos dejando atrás durante nuestras interacciones con la tecnología a diario pueden proveernos de información valiosa para estudiar nuestros hábitos diarios y sus cambios durante situaciones tan extraordinarias.
 
-**Por favor, considere brindarnos un poco de su tiempo para colaborar con nuestro proyecto. Siga las instrucciones que siguen para compartir sus datos para nuestra investigación.**
+**Por favor, considere brindarnos un poco de su tiempo para colaborar con nuestro proyecto. Siga las instrucciones a continuación para compartir sus datos para nuestra investigación.**
 
 
 Como agradecimiento por su tiempo y esfuerzo, al final le ofreceremos una herramienta online que le permitirá visualizar sus datos a través de gráficos informativos. Encontrará esta herramienta enlazada al final de este instructivo.
