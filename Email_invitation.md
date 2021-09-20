@@ -16,7 +16,7 @@ To complete the study, you would need to:
 
 **3)**	Provide us with the timestamps of your phone app usage for the last 2-12 months (depending on how long you have been using an Android phone). We have established a procedure for participants to download their data and share the timestamps associated with your phone – we will **NOT** ask you to provide us with ANY of the sensitive contents of your apps usage other than the time and date on which you used them, and we will give you an opportunity to remove any sensitive information from your contributed data.
 
-We expect participating in our study should require 1-2 hours of your time at very most if completed in a single session from start to finish, BUT the most part of this time will be spent waiting for the timestamps file to be ready for download on Google’s servers. Your actual participation should not demand more than 20-30 minutes. Moreover, you do not need to complete all steps in a single session.
+We expect participating in our study should require one hour of your time at very most if completed in a single session from start to finish, BUT the most part of this time will be spent waiting for the timestamps file to be ready for download on Google’s servers. Your actual participation should not demand more than 20-30 minutes. Moreover, you do not need to complete all steps in a single session.
 
 Unfortunately, we are not able to compensate for this study and participation would be on a volunteer basis.
 

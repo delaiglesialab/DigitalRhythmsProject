@@ -7,7 +7,7 @@ Firmar un consentimiento informado, que será totalmente online, por obvias razo
 Completar una pequeña encuesta con preguntas acerca de rutinas diarias y hábitos de trabajo.
 Enviarnos un archivo conteniendo los datos de días y horas de uso de aplicaciones en Android de los últimos 2 a 12 meses (dependiendo de cuánto tiempo hayas utilizado tu teléfono). Hemos establecido un mecanismo para que cada participante pueda descargar sus propios datos de uso de aplicaciones por sí mismo para luego compartirlos con nosotros – pero no le pediremos que comparta ningún tipo de datos sensibles más que los días y horas del uso de aplicaciones, y ofrecemos también un mecanismo adicional que permite al usuario remover todos los nombres de las aplicaciones de dicho archivo de datos.
 
-La participación en este estudio podría requerir de entre 1 y 2 horas, cómo máximo, si se lo realiza de forma continua, PERO la mayor parte de este tiempo transcurrirá esperando el proceso del archivo de datos por parte del servidor de Google. Tu participación efectiva no debiera superar los 20 a 30 minutos. Además, no es necesario completar todos los pasos en una única sesión.
+La participación en este estudio podría requerir de una hora, cómo máximo, si se lo realiza de forma continua, PERO la mayor parte de este tiempo transcurrirá esperando el proceso del archivo de datos por parte del servidor de Google. Tu participación efectiva no debiera superar los 20 a 30 minutos. Además, no es necesario completar todos los pasos en una única sesión.
 
 Lamentablemente, no podemos ofrecer compensación por la participación en este estudio y la misma es completamente voluntaria.
 
@@ -22,6 +22,6 @@ Siéntase libre de compartir esta información. Los interesados en participar pu
 https://delaiglesialab.github.io/DigitalRhythmsProject/es/
 
 Leandro Casiraghi: lcasira@uw.edu
-Horacio de la Iglesia: horaciod@uw.edu 
+Horacio de la Iglesia: horaciod@uw.edu
 
 ¡Muchas gracias!
